@@ -485,6 +485,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Description:** Create clear technical documentation following industry best practices.
 **Use Case:** API docs, user manuals, technical specifications
 
+#### reading-analysis
+**Source:** [shenquan520/reading-analysis](https://github.com/shenquan520/reading-analysis) | **Verified:** ⏳
+**Description:** AI reading-analysis skill for English exams (Gaokao / CET-4/6 / Kaoyan): question-type mapping, 10-class distractor taxonomy, and a 125-card methodology library; generates fully-explained annotated passages with per-paragraph summaries.
+**Use Case:** English exam prep, self-study reading analysis without a teacher, training distractor-option judgment
+**Stars:** ⭐
+
 ---
 
 ### 🎯 Meta Skills
